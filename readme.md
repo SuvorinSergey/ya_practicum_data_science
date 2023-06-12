@@ -12,3 +12,15 @@
 ![made-with-python](https://img.shields.io/badge/NUMPY-V%20-red)
 ![made-with-python](https://img.shields.io/badge/SEABORN-V%20-brightgreen)
 
+## [Проект "Исследование критериев успешности компьютерных игр"](https://github.com/SuvorinSergey/ya_practicum_data_science/blob/master/real_estate/real_estate_spb.ipynb)
+
+Интернет-магазине **«Стримчик»**, продающий по всему миру компьютерные игры планирует свою работу в 2017г. Из открытых источников доступны исторические данные о продажах игр до 2016 года, оценки пользователей и экспертов, жанры и платформы. 
+
+Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
+
+![python](https://img.shields.io/badge/PYTHON-V%20-blue)
+![jupyter](https://img.shields.io/badge/JUPYTER-V%20-orange)
+![pandas](https://img.shields.io/badge/PANDAS-V%20-lightgray)
+![numpy](https://img.shields.io/badge/NUMPY-V%20-red)
+![seaborn](https://img.shields.io/badge/SEABORN-V%20-brightgreen)
+![scipy](https://img.shields.io/badge/SCIPY-V%20-yellow)
