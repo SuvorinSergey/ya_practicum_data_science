@@ -12,7 +12,7 @@
 ![made-with-python](https://img.shields.io/badge/NUMPY-V%20-red)
 ![made-with-python](https://img.shields.io/badge/SEABORN-V%20-brightgreen)
 
-## [Проект "Исследование критериев успешности компьютерных игр"](https://github.com/SuvorinSergey/ya_practicum_data_science/blob/master/real_estate/real_estate_spb.ipynb)
+## [Проект "Исследование критериев успешности компьютерных игр"](https://github.com/SuvorinSergey/ya_practicum_data_science/blob/master/games/games.ipynb)
 
 Интернет-магазине **«Стримчик»**, продающий по всему миру компьютерные игры планирует свою работу в 2017г. Из открытых источников доступны исторические данные о продажах игр до 2016 года, оценки пользователей и экспертов, жанры и платформы. 
 
