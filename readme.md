@@ -24,3 +24,17 @@
 ![numpy](https://img.shields.io/badge/NUMPY-V%20-red)
 ![seaborn](https://img.shields.io/badge/SEABORN-V%20-brightgreen)
 ![scipy](https://img.shields.io/badge/SCIPY-V%20-yellow)
+
+### [Проект "Система подбора тарифорв"](https://github.com/SuvorinSergey/ya_practicum_data_science/blob/master/megaline/megaline.ipynb)
+
+Оператор мобильной связи **Мегалайн** выяснил: многие клиенты пользуются архивными тарифами, что не отвечает текущей экономисчекой модели компани. **Мегалайн** принял решение построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф: **Smart** или **Ultra**.
+
+Необходимо построить модель со значением **accuracy** не менее **0.75**. 
+
+![python](https://img.shields.io/badge/PYTHON-V%20-blue)
+![jupyter](https://img.shields.io/badge/JUPYTER-V%20-orange)
+![pandas](https://img.shields.io/badge/PANDAS-V%20-lightgray)
+![numpy](https://img.shields.io/badge/NUMPY-V%20-red)
+![seaborn](https://img.shields.io/badge/SEABORN-V%20-brightgreen)
+![scipy](https://img.shields.io/badge/SCIPY-V%20-yellow)
+![scikit-learn](https://img.shields.io/badge/SCIKIT-LEARN-V%20-deepskyblue)
